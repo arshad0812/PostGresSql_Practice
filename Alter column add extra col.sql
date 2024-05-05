@@ -9,3 +9,4 @@ Alter table demotable1 alter COLUMN address type CHAR(10);
 
 select * from demotable1;
 
+alter table demotable1 rename COLUMN id to iid;
