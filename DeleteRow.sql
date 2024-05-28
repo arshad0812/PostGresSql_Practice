@@ -4,4 +4,5 @@
 select * from demotable1;
 
 
-delete from demotable1 where name='NA';
+delete from demotable1 where name='arsh';
+
